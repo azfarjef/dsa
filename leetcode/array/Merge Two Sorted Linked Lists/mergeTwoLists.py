@@ -25,6 +25,7 @@ class ListNode:
 			self = self.next
 		return output
 
+# Time: O(n), Space: O(1)
 class Solution:
 	def mergeTwoLists(self, list1: Optional[ListNode], list2: Optional[ListNode]) -> Optional[ListNode]:
 		if list1 is None:
