@@ -13,6 +13,7 @@ class ListNode:
 			current = current.next
 		return output
 
+# Time: O(n), Space: O(1)
 class Solution:
 	def middleNode(self, head: Optional[ListNode]) -> Optional[ListNode]:
 		slow = head
