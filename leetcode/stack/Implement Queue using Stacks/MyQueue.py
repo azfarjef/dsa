@@ -7,6 +7,7 @@ class MyQueue:
 	def __str__(self):
 		return "% s" % (self.s1)
 
+	# Time : O(n), Space: O(n)
 	def push(self, x: int) -> None:
 		while self.s1:
 			self.s2.append(self.s1.pop())
@@ -14,12 +15,15 @@ class MyQueue:
 		while self.s2:
 			self.s1.append(self.s2.pop())
 	
+	# Time : O(1), Space: O(1)
 	def pop(self) -> int:
 		return self.s1.pop()
 
+	# Time : O(1), Space: O(1)
 	def peek(self) -> int:
 		return self.s1[-1]
 
+	# Time : O(1), Space: O(1)
 	def empty(self) -> bool:
 		return not self.s1
 
