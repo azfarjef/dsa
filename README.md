@@ -10,7 +10,7 @@ The following data structures are implemented in this repository:
 - Stack
 - [Linked List](https://github.com/azfarjef/dsa/tree/main/linkedlist)
 
-# Leetcode solutions
+## Leetcode solutions
 
 This repository also contains solutions to various LeetCode questions, covering a wide range of data structures and algorithms. The solutions are organized by data structure in the [leetcode](https://github.com/azfarjef/dsa/tree/main/leetcode) directory.
 
