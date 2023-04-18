@@ -23,3 +23,4 @@ This repository also contains solutions to various LeetCode questions, covering 
 | [Two Sum](https://github.com/azfarjef/dsa/tree/main/leetcode/array/Two%20Sum)                         | [Reverse Linked List](https://github.com/azfarjef/dsa/tree/main/leetcode/linked_list/Reverse%20Linked%20List)           |                              |
 | [Move Zeroes](https://github.com/azfarjef/dsa/tree/main/leetcode/array/Move%20Zeroes)           |   |   |
 | [Squares of a Sorted Array](https://github.com/azfarjef/dsa/tree/main/leetcode/array/Squares%20of%20a%20Sorted%20Array) | | |
+| [3Sum](https://github.com/azfarjef/dsa/tree/main/leetcode/array/3Sum) | | |
