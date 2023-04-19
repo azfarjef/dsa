@@ -24,3 +24,4 @@ This repository also contains solutions to various LeetCode questions, covering 
 | [Move Zeroes](https://github.com/azfarjef/dsa/tree/main/leetcode/array/Move%20Zeroes)           |   |   |
 | [Squares of a Sorted Array](https://github.com/azfarjef/dsa/tree/main/leetcode/array/Squares%20of%20a%20Sorted%20Array) | | |
 | [3Sum](https://github.com/azfarjef/dsa/tree/main/leetcode/array/3Sum) | | |
+| [Product of Array Except Self](https://github.com/azfarjef/dsa/tree/main/leetcode/array/Product%20of%20Array%20Except%20Self) | | |
