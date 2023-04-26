@@ -9,6 +9,7 @@ The following data structures are implemented in this repository:
 - [Array](https://github.com/azfarjef/dsa/tree/main/array)
 - Stack
 - [Linked List](https://github.com/azfarjef/dsa/tree/main/linkedlist)
+- [Queue](https://github.com/azfarjef/dsa/tree/main/queue)
 
 ## Leetcode solutions
 
@@ -20,7 +21,7 @@ This repository also contains solutions to various LeetCode questions, covering 
 | [Contains Duplicate](https://github.com/azfarjef/dsa/tree/main/leetcode/array/Contains%20Duplicate)              | [LRU Cache](https://github.com/azfarjef/dsa/tree/main/leetcode/linked_list/LRU%20Cache)                     | [Implement Queue using Stacks](https://github.com/azfarjef/dsa/tree/main/leetcode/stack/Implement%20Queue%20using%20Stacks) | [Valid Anagram](https://github.com/azfarjef/dsa/tree/main/leetcode/string/Valid%20Anagram)	|
 | [Insert Interval](https://github.com/azfarjef/dsa/tree/main/leetcode/array/Insert%20Interval)                 | [Merge Two Sorted Linked Lists](https://github.com/azfarjef/dsa/tree/main/leetcode/linked_list/Merge%20Two%20Sorted%20Linked%20Lists) | [Valid Parentheses](https://github.com/azfarjef/dsa/tree/main/leetcode/stack/Valid%20Parentheses)            | [Longest Palindrome](https://github.com/azfarjef/dsa/tree/main/leetcode/string/Longest%20Palindrome)	|
 | [Majority Elements](https://github.com/azfarjef/dsa/tree/main/leetcode/array/Majority%20Elements)               | [Middle of Linked List](https://github.com/azfarjef/dsa/tree/main/leetcode/linked_list/Middle%20of%20Linked%20List)         | [Evaluate Reverse Polish Notation](https://github.com/azfarjef/dsa/tree/main/leetcode/stack/Evaluate%20Reverse%20Polish%20Notation)	| [Longest Common Prefix](https://github.com/azfarjef/dsa/tree/main/leetcode/string/Longest%20Common%20Prefix)	|
-| [Two Sum](https://github.com/azfarjef/dsa/tree/main/leetcode/array/Two%20Sum)                         | [Reverse Linked List](https://github.com/azfarjef/dsa/tree/main/leetcode/linked_list/Reverse%20Linked%20List)           |                              | [Longest Substring Without Repeating Characters](https://github.com/azfarjef/dsa/tree/main/leetcode/string/Longest%20Substring%20Without%20Repeating%20Characters)	|
+| [Two Sum](https://github.com/azfarjef/dsa/tree/main/leetcode/array/Two%20Sum)                         | [Reverse Linked List](https://github.com/azfarjef/dsa/tree/main/leetcode/linked_list/Reverse%20Linked%20List)           | [Min Stack](https://github.com/azfarjef/dsa/tree/main/leetcode/stack/Min%20Stack)	| [Longest Substring Without Repeating Characters](https://github.com/azfarjef/dsa/tree/main/leetcode/string/Longest%20Substring%20Without%20Repeating%20Characters)	|
 | [Move Zeroes](https://github.com/azfarjef/dsa/tree/main/leetcode/array/Move%20Zeroes)           |   |   | [String to Integer](https://github.com/azfarjef/dsa/tree/main/leetcode/string/String%20to%20Integer)	|
 | [Squares of a Sorted Array](https://github.com/azfarjef/dsa/tree/main/leetcode/array/Squares%20of%20a%20Sorted%20Array) | | |	|
 | [3Sum](https://github.com/azfarjef/dsa/tree/main/leetcode/array/3Sum) | | |	|
