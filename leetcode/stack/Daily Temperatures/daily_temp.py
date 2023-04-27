@@ -1,5 +1,6 @@
 from typing import List
 
+# Time: O(n), Space: O(n)
 class Solution:
 	def dailyTemperatures(self, temperatures: List[int]) -> List[int]:
 		n = len(temperatures)
