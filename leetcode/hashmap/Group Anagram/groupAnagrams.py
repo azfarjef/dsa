@@ -1,6 +1,7 @@
 from typing import List
 import collections
 
+# Time: O(n k log k), Space: O(n * k) 
 class Solution:
 	def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
 		ans = collections.defaultdict(list)
@@ -13,12 +14,20 @@ class Solution:
 		return ans.values()
 
 def test_groupAnagrams():
-	print(Solution().groupAnagrams(["eat","tea","tan","ate","nat","bat"]))
-	assert Solution().groupAnagrams(["eat","tea","tan","ate","nat","bat"]) == [["eat","tea","ate"],["tan","nat"],["bat"]]
-	assert Solution().groupAnagrams([""]) == [['']]
-	assert Solution().groupAnagrams(["a"]) == [["a"]]
+	result = Solution().groupAnagrams(["eat","tea","tan","ate","nat","bat"])
+	expected = [["ate","eat","tea"],["nat","tan"],["bat"]]
+	assert sorted(map(sorted, result)) == sorted(map(sorted, expected))
+	
+	result = Solution().groupAnagrams([""])
+	expected = [[""]]
+	assert sorted(map(sorted, result)) == sorted(map(sorted, expected))
+	
+	result = Solution().groupAnagrams(["a"])
+	expected = [["a"]]
+	assert sorted(map(sorted, result)) == sorted(map(sorted, expected))
 
 	print("All tests passed")
+
 
 if __name__ == "__main__":
 	test_groupAnagrams()
