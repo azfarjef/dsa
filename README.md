@@ -26,3 +26,4 @@ This repository also contains solutions to various LeetCode questions, covering 
 | [Squares of a Sorted Array](https://github.com/azfarjef/dsa/tree/main/leetcode/array/Squares%20of%20a%20Sorted%20Array) |[Remove Nth Node From End of List](https://github.com/azfarjef/dsa/tree/main/leetcode/linked_list/Remove%20Nth%20Node%20From%20End%20of%20List)	| |	|
 | [3Sum](https://github.com/azfarjef/dsa/tree/main/leetcode/array/3Sum) | [Swap Nodes in Pairs](https://github.com/azfarjef/dsa/tree/main/leetcode/linked_list/Swap%20Nodes%20in%20Pairs) | |	|
 | [Product of Array Except Self](https://github.com/azfarjef/dsa/tree/main/leetcode/array/Product%20of%20Array%20Except%20Self) | | |	|
+| [Group Anagrams](https://github.com/azfarjef/dsa/tree/main/leetcode/hashmap/Group%20Anagrams) | | |	|
