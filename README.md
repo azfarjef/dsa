@@ -27,3 +27,4 @@ This repository also contains solutions to various LeetCode questions, covering 
 | [3Sum](https://github.com/azfarjef/dsa/tree/main/leetcode/array/3Sum) | [Swap Nodes in Pairs](https://github.com/azfarjef/dsa/tree/main/leetcode/linked_list/Swap%20Nodes%20in%20Pairs) | |	|
 | [Product of Array Except Self](https://github.com/azfarjef/dsa/tree/main/leetcode/array/Product%20of%20Array%20Except%20Self) | | |	|
 | [Group Anagrams](https://github.com/azfarjef/dsa/tree/main/leetcode/hashmap/Group%20Anagrams) | | |	|
+| [Two Sum II](https://github.com/azfarjef/dsa/tree/main/leetcode/array/Two%20Sum%20II) | | |	|
