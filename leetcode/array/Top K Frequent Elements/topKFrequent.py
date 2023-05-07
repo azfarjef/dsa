@@ -1,6 +1,7 @@
 from typing import List
 
-# Time: O(nlogn), Space: O(n)
+# Bucket Sort
+# Time: O(n), Space: O(n)
 class Solution:
 	def topKFrequent(self, nums: List[int], k: int) -> List[int]:
 		count = {}
