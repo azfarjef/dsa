@@ -6,7 +6,7 @@ class TreeNode:
         self.left = left
         self.right = right
 
-# Time: O(n), Space: O(1)
+# Time: O(n), Space: O(n)
 class Solution:
     def diameterOfBinaryTree(self, root: Optional[TreeNode]) -> int:
         res = 0
