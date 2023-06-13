@@ -36,3 +36,4 @@ This repository also contains solutions to various LeetCode questions, covering 
 | [Clone Graph](https://github.com/azfarjef/dsa/tree/main/leetcode/graphs/Clone%20Graph)                                     |
 | [Max Area of Island](https://github.com/azfarjef/dsa/tree/main/leetcode/graphs/Max%20Area%20of%20Island)                   |
 | [Pacific Atlantic Water Flow](https://github.com/azfarjef/dsa/tree/main/leetcode/graphs/Pacific%20Atlantic%20Water%20Flow) |
+| [Surrounded Regions](https://github.com/azfarjef/dsa/tree/main/leetcode/graphs/Surrounded%20Regions)                       |
